@@ -1,0 +1,28 @@
+name: Test for Joe Nieto
+favicon: null
+layout_spectrum: 0.47902412968687713
+typography_spectrum: 0.9469537073746324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5535589754581451
+  lightness: 0.9175662461202592
+  saturation: 0.7007212636526674
+  rhythmicContrast: 0.12785347341559827
+purpose: []
